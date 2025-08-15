@@ -1,2 +1,2 @@
-# CRF-Project-Week1
-Data analysis and ML learning for CRF Week 1
+# CRF-Project
+Data analysis and ML learning for CRF
